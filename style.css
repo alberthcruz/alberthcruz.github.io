@@ -10,10 +10,17 @@
 }
 
 #img-profile{
-    width: 60%;
+    width: 100%;
     
 }
 
 #container{
     text-align: center;
 }
+
+@media (min-width: 900px){
+
+    #img-profile{
+        width: 60%;
+    }
+} 
