@@ -15,6 +15,10 @@
     text-align: center;
 }
 
+#container-projects{
+    text-align: center;
+}
+
 @media (min-width: 900px){
 
     #img-profile{
